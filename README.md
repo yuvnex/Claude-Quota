@@ -14,13 +14,13 @@ A minimal browser extension that shows token count, cache timer, and usage bars 
 
 **Chrome / Edge / Chromium**
 
-1. Download [`claude-quota-0.4.2.zip`](../../releases/download/v0.4.2/claude-quota-0.4.2.zip)
+1. Download [`claude-quota-1.0.zip`](../../releases/download/v1.0/claude-quota-1.0.zip)
 2. Go to `chrome://extensions` and enable **Developer mode**
 3. Drag and drop the zip onto the page
 
 **Firefox**
 
-1. Download [`claude-quota-0.4.2.xpi`](../../releases/download/v0.4.2/claude-quota-0.4.2.xpi)
+1. Download [`claude-quota-1.0.xpi`](../../releases/download/v1.0/claude-quota-1.0.xpi)
 2. Drag it into any Firefox window and click **Add**
 
 **Userscript**
