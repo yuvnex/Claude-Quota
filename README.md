@@ -40,10 +40,6 @@ A minimal browser extension that shows token count, cache timer, and usage bars 
 - Reads your `lastActiveOrg` cookie to query Claude's `/usage` endpoint
 - Makes requests only to `claude.ai`
 
-## Credits
-
-- Token counting via [gpt-tokenizer](https://github.com/niieani/gpt-tokenizer) (MIT)
-- Inspired by [Claude Usage Tracker](https://github.com/lugia19/Claude-Usage-Extension) by lugia19
 
 ## License
 
