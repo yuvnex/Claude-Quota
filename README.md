@@ -41,6 +41,3 @@ A minimal browser extension that shows token count, cache timer, and usage bars 
 - Makes requests only to `claude.ai`
 
 
-## License
-
-MIT
