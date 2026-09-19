@@ -34,10 +34,6 @@ A minimal browser extension that shows token count, cache timer, and usage bars 
 - Uses Claude’s `/usage` plus live SSE `message_limit` data; the SSE provides exact, unrounded utilization fractions, so the progress bars are more accurate than the rounded percentages shown on Claude’s native /usage page
 - Watches for DOM changes to inject UI elements as you navigate
 
-## Privacy
 
-- All data stays local — no external servers, no tracking
-- Reads your `lastActiveOrg` cookie to query Claude's `/usage` endpoint
-- Makes requests only to `claude.ai`
 
 
