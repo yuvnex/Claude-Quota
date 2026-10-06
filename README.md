@@ -1,6 +1,5 @@
 # Claude-Quota
 
-A minimal browser extension that shows token count, cache timer, and usage bars on claude.ai.
 
 ![Claude-Quota screenshot](./screenshot.png)
 
